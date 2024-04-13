@@ -1,0 +1,11 @@
+.catalog {
+    background-color: aliceblue;
+}
+
+.catalog-list {
+    display: none;
+}
+
+.catalog-list.hidden {
+    display: block;
+}
